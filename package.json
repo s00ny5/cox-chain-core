@@ -1,0 +1,14 @@
+{
+  "name": "cox-chain-core",
+  "version": "1.0.0",
+  "description": "cox-chain-core",
+  "main": "core.js",
+  "scripts": {
+    "start": "node core.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s00ny5/cox-chain-core.git"
+  },
+  "homepage": "https://github.com/s00ny5/cox-chain-core#readme"
+}
