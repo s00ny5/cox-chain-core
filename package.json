@@ -10,5 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/s00ny5/cox-chain-core.git"
   },
-  "homepage": "https://github.com/s00ny5/cox-chain-core#readme"
+  "homepage": "https://github.com/s00ny5/cox-chain-core#readme",
+  "dependencies": {
+    "web3": "^1.5.3"
+  }
 }
